@@ -2,7 +2,7 @@
 
 **CMPSC 448 — Midterm Project**
 
-**Team Members:** Palash Doshi and Siddharth Pendyala
+**Team Members:** Palash Doshi (Team Leader) and Siddharth Pendyala
 
 ## Project Overview
 
