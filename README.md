@@ -556,7 +556,6 @@ A Google Colab environment can be used to execute the notebooks.
 4. Run the notebook cells in sequence.
 5. Review the RQ1 and RQ2 classification results.
 6. Run the RQ3 cross-domain experiment.
-7. Run the RQ4 writing-style analysis and inspect the generated plots.
 
 ### Running the LSTM Experiments
 
